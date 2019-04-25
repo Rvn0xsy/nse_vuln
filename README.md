@@ -21,10 +21,10 @@ PS ：如果你不知道你是否需要学习这个技术，那么我可以先�
 
 关于这些，我会慢慢更新.... 
 
-* [Nmap扩展开发（一）](http://zhuanlan.zhihu.com/p/40669603)
-* [Nmap扩展开发（二）](http://zhuanlan.zhihu.com/p/40677048)
-* [Nmap扩展开发 (三) ](http://zhuanlan.zhihu.com/p/40678654)
-* [Nmap扩展开发（四）](http://zhuanlan.zhihu.com/p/40681245)
+* [Nmap扩展开发（一）](https://payloads.online/archivers/2019-04-24/1)
+* [Nmap扩展开发（二）](https://payloads.online/archivers/2019-04-24/2)
+* [Nmap扩展开发 (三) ](https://payloads.online/archivers/2019-04-24/3)
+* [Nmap扩展开发（四）](https://payloads.online/archivers/2019-04-24/4)
 
 我将会持续更新这些相关的文章 :) 
 
