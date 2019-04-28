@@ -32,10 +32,11 @@ categories = {"vuln"}
 blog = "https://payloads.online"
 
 portrule = function(host,port)
-	if(port.number == 7001)then
-		return true
-	end
-	return false
+--	if(port.number == 7001)then
+--		return true
+--	end
+--	return false
+	return true
 end
 
 action = function(host,port)
